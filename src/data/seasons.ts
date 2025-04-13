@@ -176,63 +176,13 @@ export const seasons: SeasonIT[] = [
         ]
     },
     {
-        title: "Hayat bazen acımasız ama umut her zaman var.",
-        emoji: "🌅",
+        title: "Ölme bana beraber yaşayalım",
+        emoji: "💞",
         episodes: [
-            {word: "Hayat", length: 5, burnRight: 5, isIncluded: true, guessSentence: "Varlık ve yaşam süreci"},
-            {word: "bazen", length: 5, burnRight: 5, isIncluded: true, guessSentence: "Ara sıra, her zaman değil"},
-            {word: "acımasız", length: 8, burnRight: 5, isIncluded: true, guessSentence: "Merhametsiz, sert ve zalim"},
-            {word: "ama", length: 3, burnRight: 5, isIncluded: true, guessSentence: "Bir zıtlık bildiren bağlaç"},
-            {word: "umut", length: 4, burnRight: 5, isIncluded: true, guessSentence: "Geleceğe yönelik iyimser beklenti"},
-            {word: "her", length: 3, burnRight: 5, isIncluded: true, guessSentence: "Bütün varlıkları kapsayan zamir"},
-            {word: "zaman", length: 5, burnRight: 5, isIncluded: true, guessSentence: "Geçiş süreci, vakit"},
-            {word: "var", length: 3, burnRight: 5, isIncluded: true, guessSentence: "Mevcut olduğuna işaret etmeye kullanılan kelime"},
-        ]
-    },
-    {
-        title: "Kalbin, sevgiyle dolup taşan koca bir okyanus.",
-        emoji: "❤️",
-        episodes: [
-            {word: "Kalbin", length: 6, burnRight: 5, isIncluded: true, guessSentence: "Sevgi ve duyguların merkezi organ"},
-            {word: "sevgiyle", length: 8, burnRight: 5, isIncluded: true, guessSentence: "Aşkla, derin bir duyguyla"},
-            {word: "dolup", length: 5, burnRight: 5, isIncluded: true, guessSentence: "Tamamen dolma eylemi"},
-            {word: "taşan", length: 5, burnRight: 5, isIncluded: true, guessSentence: "Dolu olduğu için dışına sızan"},
-            {word: "koca", length: 4, burnRight: 5, isIncluded: true, guessSentence: "Devasa, büyük anlamında kullanılan sıfat"},
-            {word: "bir", length: 3, burnRight: 5, isIncluded: true, guessSentence: "Tekil sayıyı ifade eden kelime"},
-            {word: "okyanus", length: 8, burnRight: 5, isIncluded: true, guessSentence: "Dev bir su birikintisi, denizlerden büyük olanı"},
-        ]
-    },
-    {
-        title: "Arkadaşlık, ruhun güneş ışığıdır.",
-        emoji: "☀️",
-        episodes: [
-            {word: "Arkadaşlık", length: 10, burnRight: 5, isIncluded: true, guessSentence: "Dostluk ve yakın sosyal bağ"},
-            {word: "ruhun", length: 5, burnRight: 5, isIncluded: true, guessSentence: "Manevi varlık, içsel güç"},
-            {word: "güneş", length: 5, burnRight: 5, isIncluded: true, guessSentence: "Gündüzleri aydınlatan gök cismi"},
-            {word: "ışığıdır", length: 8, burnRight: 5, isIncluded: true, guessSentence: "Parıltı ve aydınlık yayan şey"},
-        ]
-    },
-    {
-        title: "Hayaller bize güç verir, hayatta ilerleriz.",
-        emoji: "💭",
-        episodes: [
-            {word: "Hayaller", length: 8, burnRight: 5, isIncluded: true, guessSentence: "Rüyada veya düşüncede tasarlanan şeyler"},
-            {word: "bize", length: 4, burnRight: 5, isIncluded: true, guessSentence: "Bizlere, bizim için anlamında bir kelime"},
-            {word: "güç", length: 3, burnRight: 5, isIncluded: true, guessSentence: "Kuvvet, dayanma kapasitesi"},
-            {word: "verir", length: 5, burnRight: 5, isIncluded: true, guessSentence: "Bahşeder, sunar"},
-            {word: "hayatta", length: 7, burnRight: 5, isIncluded: true, guessSentence: "Yaşam ve varlık süreci"},
-            {word: "ilerleriz", length: 9, burnRight: 5, isIncluded: true, guessSentence: "Yol almak, gelişmek anlamında bir kelime"},
-        ]
-    },
-    {
-        title: "Başarı, düzenli çalışmanın bir meyvesidir.",
-        emoji: "🏆",
-        episodes: [
-            {word: "Başarı", length: 6, burnRight: 5, isIncluded: true, guessSentence: "Hedefe ulaşma durumu"},
-            {word: "düzenli", length: 8, burnRight: 5, isIncluded: true, guessSentence: "Planlı ve tertipli durumda olan"},
-            {word: "çalışmanın", length: 10, burnRight: 5, isIncluded: true, guessSentence: "Emek verilen gayret"},
-            {word: "bir", length: 3, burnRight: 5, isIncluded: true, guessSentence: "Tekliği ifade eden bağlaç"},
-            {word: "meyvesidir", length: 10, burnRight: 5, isIncluded: true, guessSentence: "Sonuç elde edilen şey, ürün"},
+            {word: "Ölme", length: 4, burnRight: 5, isIncluded: true, guessSentence: "Hayatını kaybetmeme, yaşamaya devam etme"},
+            {word: "bana", length: 4, burnRight: 5, isIncluded: true, guessSentence: "Konuşan kişiye yönelik, 'ben' zamirinin yönelme hali"},
+            {word: "beraber", length: 7, burnRight: 5, isIncluded: true, guessSentence: "Birlikte, yanyana, bir arada"},
+            {word: "yaşayalım", length: 9, burnRight: 5, isIncluded: true, guessSentence: "Hayatı sürdürme eylemini birlikte yapma teklifi"},
         ]
     },
 ]
