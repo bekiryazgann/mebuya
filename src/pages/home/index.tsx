@@ -193,7 +193,7 @@ export default function HomePage(): JSX.Element {
     };
 
     return (
-        <div className="p-6 min-h-screen bg-secondary">
+        <div className="p-6 bg-secondary">
             <div className="mb-8 text-center">
                 <p className="text-primary-600">
                     Sezon {currentSeasonIndex + 1} / {seasons.length}
