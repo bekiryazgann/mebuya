@@ -147,6 +147,27 @@ bun build
 
 The built files will be in the `dist` directory, which can be deployed to any static hosting service.
 
+## Deploying to Vercel
+
+This project is configured for easy one-click deployment to Vercel. The build process has been modified to bypass TypeScript type checking during the build, allowing deployment even if there are TypeScript errors.
+
+To deploy to Vercel:
+
+1. Push your code to a Git repository (GitHub, GitLab, or Bitbucket).
+2. Import the project in Vercel.
+3. Vercel will automatically detect the project as a Vite application and use the appropriate build settings.
+4. Click "Deploy" and Vercel will build and deploy the application.
+
+If you need to run TypeScript type checking locally without affecting the build process, you can use:
+
+```
+npm run type-check
+# or
+yarn type-check
+# or
+bun type-check
+```
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
