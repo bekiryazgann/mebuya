@@ -185,4 +185,116 @@ export const seasons: SeasonIT[] = [
             {word: "yaşayalım", length: 9, burnRight: 5, isIncluded: true, guessSentence: "Hayatı sürdürme eylemini birlikte yapma teklifi"},
         ]
     },
+    {
+        "title": "Seninle her nefes bir şiir",
+        "emoji": "✒️",
+        "episodes": [
+            { "word": "Seninle", "length": 7, "burnRight": 5, "isIncluded": true, "guessSentence": "Sen eşliğinde" },
+            { "word": "her", "length": 3, "burnRight": 5, "isIncluded": true, "guessSentence": "Tüm, her seferinde" },
+            { "word": "nefes", "length": 5, "burnRight": 5, "isIncluded": true, "guessSentence": "Nefes alma eylemi" },
+            { "word": "bir", "length": 3, "burnRight": 5, "isIncluded": true, "guessSentence": "Tek, bir tane" },
+            { "word": "şiir", "length": 4, "burnRight": 5, "isIncluded": true, "guessSentence": "Divan edebiyatı türü" }
+        ]
+    },
+    {
+        "title": "Kalbimde yeşeren umut sensin",
+        "emoji": "🌱",
+        "episodes": [
+            { "word": "Kalbimde", "length": 8, "burnRight": 5, "isIncluded": true, "guessSentence": "Kalbime ait" },
+            { "word": "yeşeren", "length": 7, "burnRight": 5, "isIncluded": true, "guessSentence": "Filizlenen" },
+            { "word": "umut", "length": 4, "burnRight": 5, "isIncluded": true, "guessSentence": "Ümit, beklenti" },
+            { "word": "sensin", "length": 6, "burnRight": 5, "isIncluded": true, "guessSentence": "Sen öylesin" }
+        ]
+    },
+    {
+        "title": "Sevginle bütün karanlıklar aydınlanıyor",
+        "emoji": "💡",
+        "episodes": [
+            { "word": "Sevginle", "length": 8, "burnRight": 5, "isIncluded": true, "guessSentence": "Sevgin eşliğinde" },
+            { "word": "bütün", "length": 6, "burnRight": 5, "isIncluded": true, "guessSentence": "Hepsi, tümü" },
+            { "word": "karanlıklar", "length": 11, "burnRight": 5, "isIncluded": true, "guessSentence": "Işıksız yerler" },
+            { "word": "aydınlanıyor", "length": 12, "burnRight": 5, "isIncluded": true, "guessSentence": "Işık kazanıyor" }
+        ]
+    },
+    {
+        "title": "Senin adınla başlar her güzel günüm",
+        "emoji": "🌅",
+        "episodes": [
+            { "word": "Senin", "length": 5, "burnRight": 5, "isIncluded": true, "guessSentence": "Sana ait" },
+            { "word": "adınla", "length": 6, "burnRight": 5, "isIncluded": true, "guessSentence": "Adı kullanılarak" },
+            { "word": "başlar", "length": 6, "burnRight": 5, "isIncluded": true, "guessSentence": "Başlama eylemi" },
+            { "word": "her", "length": 3, "burnRight": 5, "isIncluded": true, "guessSentence": "Tüm, her seferinde" },
+            { "word": "güzel", "length": 5, "burnRight": 5, "isIncluded": true, "guessSentence": "Hoşa giden" },
+            { "word": "günüm", "length": 5, "burnRight": 5, "isIncluded": true, "guessSentence": "Günüme ait" }
+        ]
+    },
+    {
+        "title": "Sahip olduğum en değerli hazine sensin",
+        "emoji": "🏆",
+        "episodes": [
+            { "word": "Sahip", "length": 5, "burnRight": 5, "isIncluded": true, "guessSentence": "Mülk sahibi" },
+            { "word": "olduğum", "length": 8, "burnRight": 5, "isIncluded": true, "guessSentence": "Sahip olunan" },
+            { "word": "en", "length": 2, "burnRight": 5, "isIncluded": true, "guessSentence": "Üstünlük belirten" },
+            { "word": "değerli", "length": 7, "burnRight": 5, "isIncluded": true, "guessSentence": "Kıymetli" },
+            { "word": "hazine", "length": 6, "burnRight": 5, "isIncluded": true, "guessSentence": "Değerli eşya" },
+            { "word": "sensin", "length": 6, "burnRight": 5, "isIncluded": true, "guessSentence": "Sen öylesin" }
+        ]
+    },
+    {
+        "title": "Seninle olmak hayatımın en huzurlu hali",
+        "emoji": "🛌",
+        "episodes": [
+            { "word": "Seninle", "length": 7, "burnRight": 5, "isIncluded": true, "guessSentence": "Sen eşliğinde" },
+            { "word": "olmak", "length": 6, "burnRight": 5, "isIncluded": true, "guessSentence": "Var olmak" },
+            { "word": "hayatımın", "length": 10, "burnRight": 5, "isIncluded": true, "guessSentence": "Yaşamıma ait" },
+            { "word": "en", "length": 2, "burnRight": 5, "isIncluded": true, "guessSentence": "Üstünlük belirten" },
+            { "word": "huzurlu", "length": 7, "burnRight": 5, "isIncluded": true, "guessSentence": "Sakin, dingin" },
+            { "word": "hali", "length": 4, "burnRight": 5, "isIncluded": true, "guessSentence": "Durum" }
+        ]
+    },
+    {
+        "title": "Sevdamız zamana meydan okuyan bir efsane",
+        "emoji": "📜",
+        "episodes": [
+            { "word": "Sevdamız", "length": 8, "burnRight": 5, "isIncluded": true, "guessSentence": "Bizim sevgimiz" },
+            { "word": "zamana", "length": 6, "burnRight": 5, "isIncluded": true, "guessSentence": "Zamana ait" },
+            { "word": "meydan", "length": 6, "burnRight": 5, "isIncluded": true, "guessSentence": "Cesurca meydan okuma" },
+            { "word": "okuyan", "length": 6, "burnRight": 5, "isIncluded": true, "guessSentence": "Karşı koyan" },
+            { "word": "bir", "length": 3, "burnRight": 5, "isIncluded": true, "guessSentence": "Tek, bir tane" },
+            { "word": "efsane", "length": 6, "burnRight": 5, "isIncluded": true, "guessSentence": "Efsanevi öykü" }
+        ]
+    },
+    {
+        "title": "Kalbimin ritmi senin sesinde atıyor",
+        "emoji": "🥁",
+        "episodes": [
+            { "word": "Kalbimin", "length": 8, "burnRight": 5, "isIncluded": true, "guessSentence": "Kalbime ait" },
+            { "word": "ritmi", "length": 5, "burnRight": 5, "isIncluded": true, "guessSentence": "Vurgu, tempo" },
+            { "word": "senin", "length": 5, "burnRight": 5, "isIncluded": true, "guessSentence": "Sana ait olan" },
+            { "word": "sesinde", "length": 7, "burnRight": 5, "isIncluded": true, "guessSentence": "Sesinde bulunan" },
+            { "word": "atıyor", "length": 6, "burnRight": 5, "isIncluded": true, "guessSentence": "Vurma eylemi" }
+        ]
+    },
+    {
+        "title": "Senin ellerinle çizilen mutluluk resmi",
+        "emoji": "🎨",
+        "episodes": [
+            { "word": "Senin", "length": 5, "burnRight": 5, "isIncluded": true, "guessSentence": "Sana ait olan" },
+            { "word": "ellerinle", "length": 8, "burnRight": 5, "isIncluded": true, "guessSentence": "Ellerin eşliğinde" },
+            { "word": "çizilen", "length": 7, "burnRight": 5, "isIncluded": true, "guessSentence": "Çizme eylemi" },
+            { "word": "mutluluk", "length": 9, "burnRight": 5, "isIncluded": true, "guessSentence": "Sevinç durumu" },
+            { "word": "resmi", "length": 5, "burnRight": 5, "isIncluded": true, "guessSentence": "Görsel sanat eseri" }
+        ]
+    },
+    {
+        "title": "Senin varlığın bana hayat veriyor",
+        "emoji": "🌈",
+        "episodes": [
+            { "word": "Senin", "length": 5, "burnRight": 5, "isIncluded": true, "guessSentence": "Sana ait olan" },
+            { "word": "varlığın", "length": 8, "burnRight": 5, "isIncluded": true, "guessSentence": "Varlığa ait" },
+            { "word": "bana", "length": 4, "burnRight": 5, "isIncluded": true, "guessSentence": "Bana yönelik" },
+            { "word": "hayat", "length": 5, "burnRight": 5, "isIncluded": true, "guessSentence": "Yaşam" },
+            { "word": "veriyor", "length": 7, "burnRight": 5, "isIncluded": true, "guessSentence": "Sağlama eylemi" }
+        ]
+    }
 ]
